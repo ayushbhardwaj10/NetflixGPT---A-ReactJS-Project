@@ -1,3 +1,12 @@
+#Netflix GPT
+
+- Create React App
+- Configures TailwindCSS
+- Header
+- Login Form
+- Sign up Form
+- Formik library : Use this library to handel form validations when there's a very big form with a lot of fields which becomes difficult to handel.
+
 #Features
 
 - Login/Sign up page
